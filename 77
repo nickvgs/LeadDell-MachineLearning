@@ -1,0 +1,89 @@
+[33mcommit 5b58a95ab99c2344aabd917655d071541cbf6a95[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Mon Aug 2 17:50:14 2021 -0300
+
+    adicionado notebooks da aula 5.2
+
+[33mcommit d8882c1590bfbbc379b247431f88685042feb900[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Sat Jul 24 14:13:59 2021 -0300
+
+    adicionado a aula 3.2 e roteiros 11 e 12 das aulas
+
+[33mcommit 903b6cec9ccb53d8e84b7c79cc7ee6932209ed0d[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Tue Jul 20 20:20:12 2021 -0300
+
+    feito formatacao no notebook da oficina
+
+[33mcommit 7683e283b7015331f1d7ca3e3e99021dd6b1ba11[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Mon Jul 19 19:05:03 2021 -0300
+
+    adicionado conteudo da aula3.2 sobre KMeans e o Notebook de oficina - atividade para entrega
+
+[33mcommit 2cf5468d17adaf84c185f7236dd2f4d57c86f2af[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Fri Jul 16 21:31:11 2021 -0300
+
+    adicionado aula 3.1 sobre clusterizacao
+
+[33mcommit 7038c494436b7736b323d87acf382fbe541ab980[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Thu Jul 15 13:32:20 2021 -0300
+
+    adicionado parte das aulas, ainda falta finalizar
+
+[33mcommit 45221b17c57302021f3b6cadc45b05620e9b6535[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Sun Jul 11 01:45:43 2021 -0300
+
+    adicionado as avaliacoes realizadas - todas as questões
+
+[33mcommit 41f2b4421360655aaf9dd15f5a67d9cad600c6e0[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Sun Jul 11 01:17:06 2021 -0300
+
+    finalizado aula 2.5 sobre regressao logistica
+
+[33mcommit 88c154318acd25594586ef0d825f76da0b2ad00c[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Wed Jul 7 23:40:25 2021 -0300
+
+    finalizado aula 2.4 de arvore de decisao
+
+[33mcommit 1074a561afad2d54e8f127fd50ca6686c42ad8bf[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Fri Jul 2 10:58:31 2021 -0300
+
+    roteiros e pasta de códigos em txt para acompanhamento
+
+[33mcommit 6cfacd1a24e546581b2b312f2548ad7d200bdada[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Wed Jun 30 13:18:27 2021 -0300
+
+    finalizacao das aulas de KNN para classificacao e regressao
+
+[33mcommit 851b8bfd310f333fa7cd67060882d42dfbc43ea4[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Sat Jun 26 21:53:21 2021 -0300
+
+    finalizacao da atividade e inicio da aula 2.3
+
+[33mcommit 507c67b6205b66f65cffa989d793fedfa2639df8[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Mon Jun 21 00:37:58 2021 -0300
+
+    corrigindo nome
+
+[33mcommit 7203b442679f3f88f70a5c280aea561abad58184[m
+Author: nickvgs <nick_.s@hotmail.com>
+Date:   Thu Jun 17 21:34:09 2021 -0300
+
+    Notebooks gerados nas aulas
+
+[33mcommit 31e7da8f5e59e4ea1b3c514937c5122c848afac5[m
+Author: Nicolas Vogiantzis <67065401+nickvgs@users.noreply.github.com>
+Date:   Thu Jun 17 21:15:10 2021 -0300
+
+    Initial commit
