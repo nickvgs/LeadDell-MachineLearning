@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # ## Principal Component Analysis
@@ -73,6 +72,3 @@ lr.score(X_test,y_test)
 
 
 # In[ ]:
-
-
-
